@@ -1,0 +1,23 @@
+{
+  "name": "tailwind_sandbox",
+  "version": "1.0.0",
+  "description": "Learning Tailwind CSS",
+  "main": "index.js",
+  "scripts": {
+    "build:css": "tailwind build src/style.css -o public/style.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nicole-m-martin/Tailwind_sandbox.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nicole-m-martin/Tailwind_sandbox/issues"
+  },
+  "homepage": "https://github.com/nicole-m-martin/Tailwind_sandbox#readme",
+  "dependencies": {
+    "tailwindcss": "^2.2.17"
+  }
+}
